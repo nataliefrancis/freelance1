@@ -13,5 +13,14 @@ For my freelance, I chose to work with a friend from Alaska. She has a side busi
 
 I might consider making it a single page web site in which the main nav bar would just direct the user to a place further down the page. Though it needs to have a shopping cart so that will add at least one additional page. I have started perusing wordpress templates.
 
+#### List of Wordpress themes I could use:
+1. FashionPoint
+2. Type
+3. SShop
+4. Bakes and Cakes
+5. Brasserie
+6. Pinnacle
+7. Effect
+
 
 ### Please find a copy of my wireframes in this repo folder.
